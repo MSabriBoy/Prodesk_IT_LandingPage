@@ -16,12 +16,6 @@ A clean and responsive landing page created as a Week-1 internship task to showc
 - Git & GitHub
 
 ## 📸 Screenshots
-![Home Page](./images/screenshots/home-ss.png)
-![About Page](./images/screenshots/About-ss.png)
-![Service Page](./images/screenshots/service-ss.png)
-![Contact Page](./images/screenshots/contact-ss.png)
-![Footer Section](./images/screenshots/footer-ss.png)
-
 ### Desktop Views
 <p align="center">
   <img src="./images/screenshots/home-ss.png" width="700"/>
@@ -38,7 +32,6 @@ A clean and responsive landing page created as a Week-1 internship task to showc
 <p align="center">
   <img src="./images/screenshots/footer-ss.png" width="700"/>
 </p>
-
 
 ### Mobile View
 <p align="center">
