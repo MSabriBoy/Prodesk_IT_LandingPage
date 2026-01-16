@@ -2,6 +2,9 @@
 
 A clean and responsive landing page created as a Week-1 internship task to showcase the basic layout, design, and responsiveness of a corporate website.
 
+## 🔗 Live Demo
+https://msabriboy.github.io/Prodesk_IT_LandingPage/
+
 ## 🚀 Features
 - Responsive landing page layout
 - Modern and clean UI design
